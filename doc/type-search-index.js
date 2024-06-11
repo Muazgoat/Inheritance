@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.muaz","l":"Car"},{"p":"com.muaz","l":"Inheritance1"},{"p":"com.muaz","l":"SpecificCar"}];updateSearchResults();
