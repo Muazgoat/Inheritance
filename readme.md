@@ -1,4 +1,4 @@
-# Inheritance Example
+# Inheritance 
 
 This Java program demonstrates inheritance using the `Car` and `SpecificCar` classes.
 
