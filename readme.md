@@ -11,9 +11,8 @@ The program consists of two classes:
 
 ## Usage
 
-1. Compile the Java files.
-2. Run the `Inheritance1` class.
-3. The program will create a `SpecificCar` object, invoke its methods, and display the make and model of the car.
+1. Run the `Inheritance1` class.
+2. The program will create a `SpecificCar` object, invoke its methods, and display the make and model of the car.
 
 
 ## Resources
